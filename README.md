@@ -9,5 +9,5 @@ This is my first Next.js project. Just used some basic routing and practiced imp
    * Kinde Auth
 
 
-[Live Link]()
+[Live Link](https://view-blogs-with-next.vercel.app/)
 
