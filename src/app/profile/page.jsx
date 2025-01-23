@@ -13,7 +13,7 @@ const page = async () => {
 
     return (
         <>
-            <h2 className="text-center text-3xl font-semibold my-10">Welcome to Your Profile, {user.given_name}</h2>
+            <h2 className="text-center text-3xl font-semibold my-10">Welcome to Your Profile, {user.given_name}!</h2>
         </>
     );
 };
